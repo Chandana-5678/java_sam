@@ -1,2 +1,4 @@
-# java_sam
-java sample project for jenkins
+java-hello-world-webapp
+=======================
+
+A simple java web app
